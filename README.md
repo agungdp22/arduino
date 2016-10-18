@@ -1,8 +1,8 @@
 How To Install on Ubuntu
 1. make folder
- $ mkdir ibot
+ $ mkdir arduino
 2. clone repository
- $ git clone http://code.cs.ipb.ac.id/ardhimaarik/ibot.git
+ $ git clone http://github.com/agungdp22/arduino.git
 3. make folder core of arduino
  $ make master_arduino
 4. compile main/master.cc 
